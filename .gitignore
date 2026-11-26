@@ -228,3 +228,6 @@ data/
 # Kaggle credentials
 kaggle.json
 access_token
+
+# Private team context (not for the public repo)
+ATOM_CONTEXT.md
